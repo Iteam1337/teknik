@@ -1,4 +1,4 @@
-# teknik
+# Teknikval på Iteam
 Iteams process för att välja tekniker i projekt.
 
 ## Process
