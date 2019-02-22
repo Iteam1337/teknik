@@ -3,7 +3,7 @@
 **Dokument- och key/value-databas som en service av AWS**
 
 Om ens stack redan existerar i AWS och en dokumentdatabas behövs, kan detta ses<br/>
-som ett alternativ. Denna konkurerar dock inte ut mongodb, utan snarare redis.
+som ett alternativ. Denna konkurrerar dock inte ut mongodb, utan snarare redis.
 
 Caveats:
  - Icke intuitiva queries
