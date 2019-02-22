@@ -3,7 +3,9 @@ Iteams process för att välja tekniker i projekt.
 
 ## Process
 
-Utvärderingskriterierna poängsätts för varje specifik teknik med betyg mellan 0 och 5. När poängsättningen är klar summeras poängen och en rekommendation sammanfattas av den eller de som utvärderar. Varje ny utvärdering skapas som en Pull Request som godkänns av teknikvalsgruppen som ansvarar för att kontroller att alla delar av utvärderingen har fyllts i.
+Nya tekniker ska genomgå en utvärderingsprocess innan de är redo för att införas i kundprojekt. Alla medarbetare kan göra sådana utvärderingar, ensamma eller i grupp. Syftet med utvärderingarna är att synliggöra vår kunskap om en teknik och dess förutsättningar för användning, samt att öka möjligheterna till användning av nya tekniker i projekt genom större trygghet och tydlighet för teamen när de väljer tekniker.
+
+Utvärderingskriterierna nedan poängsätts för varje specifik teknik med betyg mellan 0 och 5. När poängsättningen är klar summeras poängen och en rekommendation sammanfattas av den eller de som utvärderar. Varje ny utvärdering skapas som en Pull Request som godkänns av teknikvalsgruppen som ansvarar för att kontroller att alla delar av utvärderingen har fyllts i.
 
 ## Utvärderingskriterier
 
@@ -25,4 +27,3 @@ Rekommendationen består av en fritext + en kategori som den nya tekniken placer
 - **Inte än** - tekniken är lovande men innehåller för många risker just nu, håll koll på den och gör ny utvärdering senare
 - **Behöver mer utvärdering** - utvärderingen ger inte tillräckliga svar i nuläget, beskriv vilka aktiviteter som behövs
 - **Nej** - denna teknik passar inte i våra projekt (motivera varför).
-
