@@ -17,3 +17,5 @@ Summa poäng (0-30):
 Rekommendation (text):
 
 Kategori: (en av *rekommenderad*, *potential men riskfylld*, *inte än*, *behöver mer utvärdering*, *nej)
+
+Utvärderat av: 
