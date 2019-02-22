@@ -3,7 +3,7 @@ Iteams process för att välja tekniker i projekt.
 
 ## Process
 
-Utvärderingskriterierna poängsätts för varje specifik teknik med betyg mellan 0 och 5. När poängsättningen är klar summeras poängen och en rekommendation sammanfattas av den eller de som utvärderar.
+Utvärderingskriterierna poängsätts för varje specifik teknik med betyg mellan 0 och 5. När poängsättningen är klar summeras poängen och en rekommendation sammanfattas av den eller de som utvärderar. Varje ny utvärdering skapas som en Pull Request som godkänns av teknikvalsgruppen som ansvarar för att kontroller att alla delar av utvärderingen har fyllts i.
 
 ## Utvärderingskriterier
 
