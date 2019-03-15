@@ -8,7 +8,7 @@ ReasonML är ett syntax och toolchain ovanpå OCaml. OCaml har i sin tur funnits
 - Syntax som liknar JavaScript - de eftersträvar att övergången ska vara enkel från JS
 - Använder `npm` som package manager för JS, `esy`/`dune`/`opam` för native
 - Supersnabb kompilering
-- Typer - Typinferens gör att det ofta är mindre arbete än Flow och TypeScript. Flow är byggt i OCaml, men detta är flera nivåer bättre.
+- Typinferens gör att det ofta är mindre arbete än Flow och TypeScript. Flow är byggt i OCaml, men detta är flera nivåer bättre.
 - Breda användningsområden i och med att det kan kompilera till t.ex. [JS](http://bucklescript.github.io/) och bytecode
 
 ## Nackdelar
