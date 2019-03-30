@@ -14,7 +14,7 @@ ReasonML är ett syntax och toolchain ovanpå OCaml. OCaml har i sin tur funnits
 ## Nackdelar
 
 - Inget async/await [än](https://github.com/facebook/reason/issues/1321)
-- Inget React Hooks/Context [än](https://github.com/reasonml/reason-react/issues/299)
+- ~~Inget React Hooks/Context~~ [React Hooks är mergeat](https://github.com/reasonml/reason-react/pull/351)
 - Aktivt arbete görs, men det går oftast rätt långsamt. Kan ses som positivt också i och med att API:er är väl genomtänkta.
 - Att hantera ren JSON kan vara drygt i och med att fälten behöver typas
 
