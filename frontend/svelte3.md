@@ -31,7 +31,7 @@ likt Vue och några mindre likheter med React.
 | Integration       | 1               | Stor skillnad mot tänket i det stora ramverken gör det svårt att lätt byta         |
 | Införande         | 4               | Lätt att införa då det är likt Vue                                                 |
 
-**Summa poäng (0-30):** 12
-**Rekommendation:** Det skulle kunna fungera bra för en snabb PoC
-**Kategori:** Inte än
-**Utvärderat av:** [Rickard Laurin](https://github.com/believer)
+- **Summa poäng (0-30):** 12
+- **Rekommendation:** Det skulle kunna fungera bra för en snabb PoC
+- **Kategori:** Inte än
+- **Utvärderat av:** [Rickard Laurin](https://github.com/believer)
