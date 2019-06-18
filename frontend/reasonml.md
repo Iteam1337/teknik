@@ -27,8 +27,8 @@ ReasonML är ett syntax och toolchain ovanpå OCaml. OCaml har i sin tur funnits
 | Integration       | 4               | Det är relativt enkelt att integrera med befintliga React-appar i Flow och TypeScript, [MED typning över gränsen](https://github.com/cristianoc/genType). API:et är i stort sett stabilt och om det görs ändringar erbjuder de alltid codemods                                                                                                            |
 | Införande         | 4               | Borde inte vara någon större tröskel att komma igång med för de med JS-vana |
 
-**Summa poäng (0-30):** 23
-**Rekommendation:** Reason kompilerat till JavaScript har flera fördelar mot Flow och TypeScript som gör det till ett bra alternativ. Framtiden för det ser ljus ut.
-**Kategori:** Rekommenderad
-**Utvärderat av:** [Rickard Laurin](https://github.com/believer)
+- **Summa poäng (0-30):** 23
+- **Rekommendation:** Reason kompilerat till JavaScript har flera fördelar mot Flow och TypeScript som gör det till ett bra alternativ. Framtiden för det ser ljus ut.
+- **Kategori:** Rekommenderad
+- **Utvärderat av:** [Rickard Laurin](https://github.com/believer)
 
