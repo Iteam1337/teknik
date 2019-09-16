@@ -17,7 +17,7 @@ Elm är ett starkt typat språk vars första version kom 2012. Det byggs i stort
 - Interop med JavaScript är inte lika "enkelt" som ReasonML[<sup>4</sup>](https://guide.elm-lang.org/interop/ports.html)
 - Eget paketbibliotek innebär ett mindre utbud även om det mesta finns
 - Bussfaktor med en huvudutvecklare
-- Jag hade ett fall där jag tog bort en funktion från `exposing` (dvs. exporterad), men kompileringen klagade inte förrän jag sparade filen som försökte importera den. Vet inte om det bara var `create-elm-app` som spökade
+- Jag hade ett fall där jag tog bort en funktion från `exposing`, dvs. exporterad, men kompileringen klagade inte förrän jag sparade filen som försökte importera den. Vet inte om det bara var `create-elm-app` som spökade
 
 | **Kriterium**     | **Poäng (0-5)** | **Kommentar**                                                                                                                                     |
 | ----------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
