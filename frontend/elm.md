@@ -1,6 +1,6 @@
 # Elm
 
-Elm är ett starkt typat språk vars första version kom 2012. Det byggs i stort sett av en person, Evan Czaplicki, och används för webbprojekt som kompileras till JavaScript. De säger själva att det **aldrig** kommer förekomma några runtime exceptions då alla potentiella fel fångas i kompileringen. Elm är snabbt och kompileras till små filer då det inte inkluderar lika mycket ramverk som de tre stora (React, Angular och Vue). Eftersom det har en hel del likheter med ReasonML så kommer jag jämföra med det.
+Elm är ett starkt typat språk vars första version kom 2012. Det byggs i stort sett av en person, [Evan Czaplicki](https://github.com/evancz), och används för webbprojekt som kompileras till JavaScript. De säger själva att det **aldrig** kommer förekomma några runtime exceptions då alla potentiella fel fångas i kompileringen. Elm är snabbt och kompileras till små filer då det inte inkluderar lika mycket ramverk som de tre stora (React, Angular och Vue). Eftersom det har en hel del likheter med ReasonML så kommer jag jämföra med det.
 
 ## Fördelar
 
