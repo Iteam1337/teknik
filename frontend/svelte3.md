@@ -6,6 +6,12 @@ Svelte är ett ramverk som flyttar kraften till kompileringen istället för i b
 Svelte 2 kom 2018 och nästan på dagen ett år senare (22 april 2019) släpptes Svelte 3. Syntaxet är väldigt
 likt Vue och några mindre likheter med React.
 
+## Projekt som använder tekniken
+
+- [The New York Times](https://www.nytimes.com/) - Sveltes skapare [Rich Harris](https://github.com/Rich-Harris) jobbar på NYT
+- [Chess.com](https://www.chess.com/) - Världens största schacksida
+- [GoDaddy](https://se.godaddy.com/)
+
 ## Fördelar
 
 - Ramverket "försvinner" vid bygge till skillnad från React och Vue, dvs. koden kompileras till vanilla JS
