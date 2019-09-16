@@ -1,7 +1,5 @@
 # Svelte 3
 
-[https://svelte.dev/](https://svelte.dev/)
-
 Svelte är ett ramverk som flyttar kraften till kompileringen istället för i browsern som React och Vue.
 Svelte 2 kom 2018 och nästan på dagen ett år senare (22 april 2019) släpptes Svelte 3. Syntaxet är väldigt
 likt Vue och några mindre likheter med React.
@@ -41,3 +39,6 @@ likt Vue och några mindre likheter med React.
 - **Rekommendation:** Det skulle kunna fungera bra för en snabb PoC
 - **Kategori:** Inte än
 - **Utvärderat av:** [Rickard Laurin](https://github.com/believer)
+
+## Länkar
+[https://svelte.dev/](https://svelte.dev/)
