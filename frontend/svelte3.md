@@ -41,4 +41,5 @@ likt Vue och några mindre likheter med React.
 - **Utvärderat av:** [Rickard Laurin](https://github.com/believer)
 
 ## Länkar
+
 [https://svelte.dev/](https://svelte.dev/)
