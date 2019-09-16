@@ -5,8 +5,8 @@ ReasonML är ett syntax och toolchain ovanpå OCaml. OCaml har i sin tur funnits
 ## Projekt som använder tekniken
 
 - [Facebook Messenger](http://messenger.com/) - Facebooks messenger.com[<sup>1</sup>](https://reasonml.github.io/blog/2017/09/08/messenger-50-reason)
-- [Sotheby's](https://www.sothebys.com/en/) - Sotheby's auktionsida[<sup>3</sup>](https://www.youtube.com/watch?v=OAtZqdNdC9c)
-- [Draftbit](https://draftbit.com/) - Webapp för att bygga React Native-appar och direkt exportera koden[<sup>2</sup>](https://www.youtube.com/watch?v=Hp4t-bMCVe4)
+- [Sotheby's](https://www.sothebys.com/en/) - Sotheby's auktionsida[<sup>2</sup>](https://www.youtube.com/watch?v=OAtZqdNdC9c)
+- [Draftbit](https://draftbit.com/) - Webapp för att bygga React Native-appar och direkt exportera koden[<sup>3</sup>](https://www.youtube.com/watch?v=Hp4t-bMCVe4)
 
 ## Fördelar
 
@@ -41,5 +41,5 @@ ReasonML är ett syntax och toolchain ovanpå OCaml. OCaml har i sin tur funnits
 ## Noter
 
 - <sup>1. - [Messenger.com Now 50% Converted to Reason](https://reasonml.github.io/blog/2017/09/08/messenger-50-reason)</sup>
-- <sup>2. - [Peter Piekarczyk - How ReasonML has improved our hiring process | ReasonConf 2019](https://www.youtube.com/watch?v=Hp4t-bMCVe4)</sup>
-- <sup>3. - [Arnar Þór Sveinsson - Reasoning with Sotheby's | ReasonConf 2019](https://www.youtube.com/watch?v=OAtZqdNdC9c)</sup>
+- <sup>2. - [Arnar Þór Sveinsson - Reasoning with Sotheby's | ReasonConf 2019](https://www.youtube.com/watch?v=OAtZqdNdC9c)</sup>
+- <sup>3. - [Peter Piekarczyk - How ReasonML has improved our hiring process | ReasonConf 2019](https://www.youtube.com/watch?v=Hp4t-bMCVe4)</sup>
