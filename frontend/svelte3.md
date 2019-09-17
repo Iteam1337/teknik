@@ -36,7 +36,7 @@ likt Vue och några mindre likheter med React.
 | Införande         | 4               | Lätt att införa då det är likt Vue                                                 |
 
 - **Summa poäng (0-30):** 12
-- **Rekommendation:** Det skulle kunna fungera bra för en snabb PoC
+- **Rekommendation:** Det skulle kunna fungera bra för en snabb PoC eller en mindre sida där det inte direkt behövs ramverk, till exempel en bloggsida
 - **Kategori:** Inte än
 - **Utvärderat av:** [Rickard Laurin](https://github.com/believer)
 
