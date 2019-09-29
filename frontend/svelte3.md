@@ -22,7 +22,7 @@ likt Vue och några mindre likheter med React.
 - Är inte backat av något stort företag
 - Likt Vue så är det gärna muterande state, vilket kan leda till svårföljd kod i en större app
 - Oklart hur globalt state sköts
-- Saknar dev tools
+- ~~Saknar dev tools~~ [Communitybyggd devtools](https://github.com/RedHatter/svelte-devtools)
 - Inget stöd för typning med t.ex. TypeScript än [#1639](https://github.com/sveltejs/svelte/issues/1639)
 - Native-stöd finns, men är fortfarande litet [Svelte Native](https://svelte-native.technology/)
 
