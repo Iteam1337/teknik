@@ -26,7 +26,7 @@ Elixir:
 - Stort momentum
 - Alla större förändringar i språket är klara och skaparen säger sig inte ha några planer på att införa något som är "breaking", istället kommer mer fokus nu ligga på påbyggnads-bibliotek och att förbättra Erlang
 - Tvingar användaren att tänka annorlunda för att skapa tydlig kod
-- Inbyggt release med en själv-isolerad mapp med alla onödiga delar avskalat. Kan användas tillsammans med Docker med eftersom Elixir använder supervision-trees blir Docker inte lika nödvändigt.
+- Inbyggt release med en själv-isolerad mapp med alla onödiga delar avskalat. Kan användas tillsammans med Docker men eftersom Elixir använder supervision-trees blir Docker inte lika nödvändigt.
 
 ## Nackdelar
 
